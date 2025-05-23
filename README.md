@@ -1,10 +1,5 @@
 # 👨‍💻 Ytalo Alves • Desenvolvedor Full-Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ytaloalves10/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Ytalo-Alves)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ytaloalves10@hotmail.com)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5511944418282)
-
 ---
 
 Sou **Ytalo Alves**, desenvolvedor **Full-Stack** com experiência no desenvolvimento de aplicações web e mobile. Atuo com tecnologias modernas como **Node.js**, **TypeScript**, **React**, **React Native**, **PostgreSQL**, **Prisma ORM**, **Docker** e **Jest/Vitest** para testes automatizados.
