@@ -72,4 +72,3 @@ Tenho conhecimento em:
 ---
 
 > 💡 *Aprimorando código, processos e soluções — todos os dias.*
-t
