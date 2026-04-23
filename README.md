@@ -1,74 +1,122 @@
-# 👨‍💻 Ytalo Alves • Desenvolvedor Full-Stack
+![Header](https://capsule-render.vercel.app/api?type=blur&color=0:020617,40:0f172a,100:0891b2&height=220&section=header&text=Ytalo%20Alves&fontSize=46&fontColor=f8fafc&animation=fadeIn&fontAlignY=36)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=28&pause=1100&color=67E8F9&background=020617&center=true&vCenter=true&width=980&lines=ANALISTA+DE+SISTEMAS+%7C+LOG%C3%8DSTICA+%7C+WMS;PROCESSOS+COM+TECNOLOGIA+E+EXECU%C3%87%C3%83O" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Processos%20%7C%20Tecnologia%20%7C%20Opera%C3%A7%C3%A3o-020617?style=for-the-badge" alt="Focus badge" />
+  <img src="https://img.shields.io/badge/Especialidade-Implanta%C3%A7%C3%A3o%20WMS-0891b2?style=for-the-badge" alt="WMS badge" />
+</p>
+
+<p align="center">
+  README profissional com foco em atuacao, especialidades e formas de contato.
+</p>
 
 ---
 
-Sou **Ytalo Alves**, desenvolvedor **Full-Stack** com experiência no desenvolvimento de aplicações web e mobile. Atuo com tecnologias modernas como **Node.js**, **TypeScript**, **React**, **React Native**, **PostgreSQL**, **Prisma ORM**, **Docker** e **Jest/Vitest** para testes automatizados.
+<h2 align="left" style="font-family: 'Space Grotesk', 'Segoe UI', sans-serif; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 800;">
+  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/person-fill.svg" width="18" alt="Sobre"> Sobre
+</h2>
 
-Tenho conhecimento em:
+Profissional com experiência em sistemas, logística e implantação de soluções para operações complexas. Atuo conectando tecnologia e operação para transformar processos, aumentar eficiência e apoiar decisões com mais clareza.
 
-- Estruturação de **APIs RESTful**
-- Boas práticas de **arquitetura de software**
-- Princípios **SOLID** e **Clean Code**
-- Autenticação segura com **JWT**
-- Versionamento com **Git** e integração contínua com **GitHub Actions**
+Minha atuação combina visão analítica, execução prática e relacionamento com áreas de negócio, tecnologia e operação.
 
 ---
 
-## 🚀 Tech Stack
+<h2 align="left" style="font-family: 'Space Grotesk', 'Segoe UI', sans-serif; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 800;">
+  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/lightning-charge-fill.svg" width="18" alt="Destaques"> Destaques
+</h2>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+- Atuação na fronteira entre operação e tecnologia
+- Vivência com implantação, suporte e melhoria de processos
+- Foco em eficiência operacional e padronização
+- Comunicação objetiva com times técnicos e operacionais
 
 ---
 
-## 🛠️ Habilidades Técnicas
+<h2 align="left" style="font-family: 'Space Grotesk', 'Segoe UI', sans-serif; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 800;">
+  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/diagram-3-fill.svg" width="18" alt="Atuacao"> Principais Áreas de Atuação
+</h2>
 
-- Backend com **Node.js**, **Fastify** e **Express**
-- Frontend com **React** e **React Native**
-- Banco de dados com **PostgreSQL** e **SQLite**
-- **Docker** para ambientes isolados
-- Autenticação com **JWT**
-- Testes com **Jest** e **Vitest**
-- CI/CD com **GitHub Actions**
-- Arquitetura baseada em **SOLID**, **TDD** e **Design Patterns**
-
----
-
-## 📚 Em Evolução Contínua
-
-- Testes avançados com **Vitest**
-- Arquitetura de **Microsserviços**
-- Escalabilidade e boas práticas de performance
-- Integrações com **CI/CD**
+- Implantação e sustentação de **WMS**
+- Mapeamento e melhoria de processos logísticos
+- Parametrização de regras de negócio
+- Testes funcionais e integrados
+- Treinamento de usuários e equipes operacionais
+- Apoio ao go live e estabilização da operação
+- Gestão de indicadores e eficiência operacional
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="left" style="font-family: 'Space Grotesk', 'Segoe UI', sans-serif; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 800;">
+  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/star-fill.svg" width="18" alt="Diferenciais"> Diferenciais
+</h2>
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ytalo-Alves&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ytalo-Alves&layout=compact&langs_count=7&theme=radical" />
-</div>
-
----
-
-## 📬 Contato
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ytalo-alves/)
-- [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Ytalo-Alves)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ytaloalves10@hotmail.com)
-- [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5511944418282)
+- Visão de ponta a ponta da operação logística
+- Experiência em ambientes com alta demanda e múltiplos turnos
+- Interface direta entre operação, sistemas e times técnicos
+- Foco em acuracidade, padronização e produtividade
+- Capacidade de traduzir necessidade do negócio em solução prática
 
 ---
 
-> 💡 *Aprimorando código, processos e soluções — todos os dias.*
+<h2 align="left" style="font-family: 'Space Grotesk', 'Segoe UI', sans-serif; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 800;">
+  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/boxes.svg" width="18" alt="Contexto"> Contexto de Atuação
+</h2>
+
+Minha experiência se concentra em operações de logística, centros de distribuição e implantação de sistemas voltados para cadeia de suprimentos. Tenho vivência com o ecossistema TOTVS e com rotinas como recebimento, armazenagem, separação, expedição, inventário e análise de dados operacionais.
+
+---
+
+<h2 align="left" style="font-family: 'Space Grotesk', 'Segoe UI', sans-serif; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 800;">
+  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/box-seam-fill.svg" width="18" alt="Entrego"> O Que Entrego
+</h2>
+
+- Organização de processos
+- Redução de falhas operacionais
+- Melhor uso da tecnologia na rotina do negócio
+- Suporte a times em implantação e mudança de processo
+- Comunicação clara entre operação e tecnologia
+
+---
+
+<h2 align="left" style="font-family: 'Space Grotesk', 'Segoe UI', sans-serif; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 800;">
+  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/cpu-fill.svg" width="18" alt="Tech"> Tecnologias e Ferramentas
+</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TOTVS-1D4ED8?style=flat-square&logo=totvs&logoColor=white" alt="TOTVS" />
+  <img src="https://img.shields.io/badge/WMS-0F172A?style=flat-square" alt="WMS" />
+  <img src="https://img.shields.io/badge/ERP-334155?style=flat-square" alt="ERP" />
+  <img src="https://img.shields.io/badge/TMS-475569?style=flat-square" alt="TMS" />
+  <img src="https://img.shields.io/badge/RFID-1D4ED8?style=flat-square" alt="RFID" />
+  <img src="https://img.shields.io/badge/Processos-334155?style=flat-square" alt="Processos" />
+</p>
+
+---
+
+<h2 align="left" style="font-family: 'Space Grotesk', 'Segoe UI', sans-serif; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 800;">
+  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/mortarboard-fill.svg" width="18" alt="Formacao"> Formação
+</h2>
+
+- Gestão da Cadeia de Suprimentos e Logística - Universidade Cruzeiro do Sul
+- Análise e Desenvolvimento de Sistemas - UNINOVE
+- Técnico em Tecnologia da Informação - Instituto Técnico Barueri
+
+---
+
+<h2 align="left" style="font-family: 'Space Grotesk', 'Segoe UI', sans-serif; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 800;">
+  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/envelope-fill.svg" width="18" alt="Contato"> Contato
+</h2>
+
+- Telefone: (11) 94441-8282
+- E-mail: ytaloalves09@gmail.com
+- LinkedIn: linkedin.com/in/ytalo-alves
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:0f172a&height=120&section=footer" alt="Footer" />
+</p>
