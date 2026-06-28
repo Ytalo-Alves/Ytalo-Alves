@@ -1,122 +1,144 @@
-![Header](https://capsule-render.vercel.app/api?type=blur&color=0:020617,40:0f172a,100:0891b2&height=220&section=header&text=Ytalo%20Alves&fontSize=46&fontColor=f8fafc&animation=fadeIn&fontAlignY=36)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:0f172a,70:0e7490,100:22d3ee&text=Ytalo%20Alves&fontAlign=50&fontAlignY=38&fontSize=58&fontColor=f8fafc&animation=fadeIn&desc=Systems%20Analyst%20%7C%20Full%20Stack%20Developer%20%7C%20Logistics%20Tech&descAlign=50&descAlignY=58&descSize=18" alt="Ytalo Alves profile banner" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=28&pause=1100&color=67E8F9&background=020617&center=true&vCenter=true&width=980&lines=ANALISTA+DE+SISTEMAS+%7C+LOG%C3%8DSTICA+%7C+WMS;PROCESSOS+COM+TECNOLOGIA+E+EXECU%C3%87%C3%83O" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Processos%20%7C%20Tecnologia%20%7C%20Opera%C3%A7%C3%A3o-020617?style=for-the-badge" alt="Focus badge" />
-  <img src="https://img.shields.io/badge/Especialidade-Implanta%C3%A7%C3%A3o%20WMS-0891b2?style=for-the-badge" alt="WMS badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=900&lines=Construindo+APIs%2C+interfaces+e+solu%C3%A7%C3%B5es+operacionais;TypeScript+%7C+Node.js+%7C+React+%7C+Expo;Tecnologia+aplicada+a+processos%2C+dados+e+opera%C3%A7%C3%A3o" alt="Typing animation" />
 </p>
 
 <p align="center">
-  README profissional com foco em atuacao, especialidades e formas de contato.
+  <a href="mailto:ytaloalves09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=67E8F9" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/ytalo-alves">
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Ytalo-Alves?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-0F172A?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Repositories" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Ytalo-Alves&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
----
+<br />
 
-<h2 align="left" style="font-family: 'Space Grotesk', 'Segoe UI', sans-serif; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 800;">
-  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/person-fill.svg" width="18" alt="Sobre"> Sobre
-</h2>
+<div align="center">
 
-Profissional com experiência em sistemas, logística e implantação de soluções para operações complexas. Atuo conectando tecnologia e operação para transformar processos, aumentar eficiência e apoiar decisões com mais clareza.
+```txt
+> foco atual
+  transformar conhecimento de operacao, processos e sistemas em software util,
+  escalavel e bem estruturado.
+```
 
-Minha atuação combina visão analítica, execução prática e relacionamento com áreas de negócio, tecnologia e operação.
+</div>
 
----
+## ./about
 
-<h2 align="left" style="font-family: 'Space Grotesk', 'Segoe UI', sans-serif; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 800;">
-  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/lightning-charge-fill.svg" width="18" alt="Destaques"> Destaques
-</h2>
+Sou um profissional de **Analise e Desenvolvimento de Sistemas** com base forte em operacoes logisticas, implantacao de sistemas e melhoria de processos. Minha trajetoria une o mundo operacional com desenvolvimento de software: entendo a regra de negocio, traduzo problemas reais em requisitos claros e construo solucoes com foco em uso pratico.
 
-- Atuação na fronteira entre operação e tecnologia
-- Vivência com implantação, suporte e melhoria de processos
-- Foco em eficiência operacional e padronização
-- Comunicação objetiva com times técnicos e operacionais
+Atualmente estudo e desenvolvo projetos com **TypeScript**, **Node.js**, **React**, **Expo**, APIs REST, bancos de dados e arquitetura de back-end. Tambem tenho experiencia com **WMS**, **ERP**, processos de CD, go live, sustentacao e treinamento de usuarios.
 
----
-
-<h2 align="left" style="font-family: 'Space Grotesk', 'Segoe UI', sans-serif; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 800;">
-  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/diagram-3-fill.svg" width="18" alt="Atuacao"> Principais Áreas de Atuação
-</h2>
-
-- Implantação e sustentação de **WMS**
-- Mapeamento e melhoria de processos logísticos
-- Parametrização de regras de negócio
-- Testes funcionais e integrados
-- Treinamento de usuários e equipes operacionais
-- Apoio ao go live e estabilização da operação
-- Gestão de indicadores e eficiência operacional
-
----
-
-<h2 align="left" style="font-family: 'Space Grotesk', 'Segoe UI', sans-serif; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 800;">
-  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/star-fill.svg" width="18" alt="Diferenciais"> Diferenciais
-</h2>
-
-- Visão de ponta a ponta da operação logística
-- Experiência em ambientes com alta demanda e múltiplos turnos
-- Interface direta entre operação, sistemas e times técnicos
-- Foco em acuracidade, padronização e produtividade
-- Capacidade de traduzir necessidade do negócio em solução prática
-
----
-
-<h2 align="left" style="font-family: 'Space Grotesk', 'Segoe UI', sans-serif; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 800;">
-  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/boxes.svg" width="18" alt="Contexto"> Contexto de Atuação
-</h2>
-
-Minha experiência se concentra em operações de logística, centros de distribuição e implantação de sistemas voltados para cadeia de suprimentos. Tenho vivência com o ecossistema TOTVS e com rotinas como recebimento, armazenagem, separação, expedição, inventário e análise de dados operacionais.
-
----
-
-<h2 align="left" style="font-family: 'Space Grotesk', 'Segoe UI', sans-serif; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 800;">
-  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/box-seam-fill.svg" width="18" alt="Entrego"> O Que Entrego
-</h2>
-
-- Organização de processos
-- Redução de falhas operacionais
-- Melhor uso da tecnologia na rotina do negócio
-- Suporte a times em implantação e mudança de processo
-- Comunicação clara entre operação e tecnologia
-
----
-
-<h2 align="left" style="font-family: 'Space Grotesk', 'Segoe UI', sans-serif; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 800;">
-  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/cpu-fill.svg" width="18" alt="Tech"> Tecnologias e Ferramentas
-</h2>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/TOTVS-1D4ED8?style=flat-square&logo=totvs&logoColor=white" alt="TOTVS" />
-  <img src="https://img.shields.io/badge/WMS-0F172A?style=flat-square" alt="WMS" />
-  <img src="https://img.shields.io/badge/ERP-334155?style=flat-square" alt="ERP" />
-  <img src="https://img.shields.io/badge/TMS-475569?style=flat-square" alt="TMS" />
-  <img src="https://img.shields.io/badge/RFID-1D4ED8?style=flat-square" alt="RFID" />
-  <img src="https://img.shields.io/badge/Processos-334155?style=flat-square" alt="Processos" />
-</p>
-
----
-
-<h2 align="left" style="font-family: 'Space Grotesk', 'Segoe UI', sans-serif; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 800;">
-  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/mortarboard-fill.svg" width="18" alt="Formacao"> Formação
-</h2>
-
-- Gestão da Cadeia de Suprimentos e Logística - Universidade Cruzeiro do Sul
-- Análise e Desenvolvimento de Sistemas - UNINOVE
-- Técnico em Tecnologia da Informação - Instituto Técnico Barueri
-
----
-
-<h2 align="left" style="font-family: 'Space Grotesk', 'Segoe UI', sans-serif; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 800;">
-  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/envelope-fill.svg" width="18" alt="Contato"> Contato
-</h2>
-
-- Telefone: (11) 94441-8282
-- E-mail: ytaloalves09@gmail.com
-- LinkedIn: linkedin.com/in/ytalo-alves
-
----
+## ./stack
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:0f172a&height=120&section=footer" alt="Footer" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,html,css,tailwind,prisma,postgres,docker,git,github,vscode&theme=dark&perline=13" alt="Technology stack" />
 </p>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Back-end</h3>
+      <p>Node.js, Fastify, APIs REST, Prisma, PostgreSQL, SQLite, autenticacao, validacao e organizacao por casos de uso.</p>
+    </td>
+    <td width="50%">
+      <h3>Front-end</h3>
+      <p>React, Next.js, Vite, Tailwind CSS, componentizacao, telas responsivas e interfaces voltadas a fluxo real de usuario.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Mobile</h3>
+      <p>Expo, React Native, navegacao, consumo de APIs e criacao de experiencias multiplataforma.</p>
+    </td>
+    <td width="50%">
+      <h3>Operacoes</h3>
+      <p>WMS, ERP, processos logisticos, mapeamento, testes integrados, implantacao, indicadores e melhoria continua.</p>
+    </td>
+  </tr>
+</table>
+
+## ./currently-building
+
+<p align="center">
+  <a href="https://github.com/Ytalo-Alves/api-bank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ytalo-Alves&repo=api-bank&theme=tokyonight&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=CBD5E1&icon_color=22D3EE" alt="api-bank repository" />
+  </a>
+  <a href="https://github.com/Ytalo-Alves/portifolio.dev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ytalo-Alves&repo=portifolio.dev&theme=tokyonight&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=CBD5E1&icon_color=22D3EE" alt="portifolio.dev repository" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ytalo-Alves/project-gym">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ytalo-Alves&repo=project-gym&theme=tokyonight&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=CBD5E1&icon_color=22D3EE" alt="project-gym repository" />
+  </a>
+  <a href="https://github.com/Ytalo-Alves/mobile_planner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ytalo-Alves&repo=mobile_planner&theme=tokyonight&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=CBD5E1&icon_color=22D3EE" alt="mobile_planner repository" />
+  </a>
+</p>
+
+## ./github-activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ytalo-Alves&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=CBD5E1&icon_color=22D3EE&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ytalo-Alves&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=CBD5E1&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ytalo-Alves&theme=tokyonight&hide_border=true&background=020617&stroke=22D3EE&ring=67E8F9&fire=22D3EE&currStreakLabel=67E8F9" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ytalo-Alves&bg_color=020617&color=CBD5E1&line=22D3EE&point=67E8F9&area=true&hide_border=true" alt="GitHub activity graph" />
+</p>
+
+## ./professional-edge
+
+<table>
+  <tr>
+    <td>
+      <strong>Visao de negocio</strong><br />
+      Entendo processos de ponta a ponta e consigo conectar regra operacional com solucao tecnica.
+    </td>
+    <td>
+      <strong>Execucao tecnica</strong><br />
+      Construo projetos com organizacao, versionamento, boas praticas e evolucao continua.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Comunicacao</strong><br />
+      Tenho facilidade para conversar com operacao, negocio e tecnologia usando linguagem clara.
+    </td>
+    <td>
+      <strong>Aprendizado constante</strong><br />
+      Estou em evolucao continua em back-end, front-end, mobile, arquitetura e qualidade de software.
+    </td>
+  </tr>
+</table>
+
+## ./education
+
+- **Analise e Desenvolvimento de Sistemas** - UNINOVE
+- **Gestao da Cadeia de Suprimentos e Logistica** - Universidade Cruzeiro do Sul
+- **Tecnico em Tecnologia da Informacao** - Instituto Tecnico Barueri
+
+## ./connect
+
+<p align="center">
+  <a href="mailto:ytaloalves09@gmail.com">
+    <img src="https://img.shields.io/badge/Vamos%20conversar-Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" />
+  </a>
+  <a href="https://linkedin.com/in/ytalo-alves">
+    <img src="https://img.shields.io/badge/Conectar-LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn profile" />
+  </a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:22d3ee,45:0e7490,100:020617" alt="Footer wave" />
