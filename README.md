@@ -30,20 +30,21 @@
 ## `01. runtime_profile`
 
 <table>
-  <tr>
-    <td width="58%">
+<tr>
+<td width="58%">
 
-<pre lang="ts"><code>export const ytalo = {
+```ts
+export const ytalo = {
   role: "Analista de Sistemas",
   code: ["TypeScript", "Node.js", "React", "Expo"],
   domain: ["WMS", "ERP", "Logistica", "Processos"],
   mission: "reduzir ruido entre operacao e tecnologia",
   output: "software util, claro e conectado ao processo real",
 }
-</code></pre>
+```
 
-    </td>
-    <td width="42%">
+</td>
+<td width="42%">
 
 **Sistema que eu gosto de construir**
 
@@ -53,8 +54,8 @@
 - Teste funcional conectado ao uso real
 - Comunicacao simples entre negocio, usuario e tecnologia
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
