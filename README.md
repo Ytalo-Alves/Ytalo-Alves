@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=22&duration=2400&pause=700&color=FF003C&center=true&vCenter=true&width=940&lines=build%28APIs%2C+interfaces%2C+operations%29;TypeScript+%7C+Node.js+%7C+React+%7C+WMS+%7C+ERP;code+that+connects+processes+to+real+execution" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2400&pause=700&color=FF003C&center=true&vCenter=true&width=940&lines=build%28APIs%2C+interfaces%2C+operations%29;TypeScript+%7C+Node.js+%7C+React+%7C+WMS+%7C+ERP;code+that+connects+processes+to+real+execution" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -33,15 +33,14 @@
   <tr>
     <td width="58%">
 
-```ts
-export const ytalo = {
+<pre lang="ts"><code>export const ytalo = {
   role: "Analista de Sistemas",
   code: ["TypeScript", "Node.js", "React", "Expo"],
   domain: ["WMS", "ERP", "Logistica", "Processos"],
   mission: "reduzir ruido entre operacao e tecnologia",
   output: "software util, claro e conectado ao processo real",
 }
-```
+</code></pre>
 
     </td>
     <td width="42%">
